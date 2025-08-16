@@ -1,7 +1,7 @@
 [
   {
     "id": "0001",
-    "status": 0,
+    "status": 1,
     "item": "行李箱",
     "name": "王俊",
     "phone": "",
@@ -10,7 +10,7 @@
     "qq": "",
     "wechat": "",
     "email": "",
-    "date": "",
+    "date": "2025.8.16",
     "message": ""
   }
 ]
