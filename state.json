@@ -1,11 +1,25 @@
 [
   {
     "id": "0001",
-    "status": 1,
+    "status": 0,
     "item": "行李箱",
     "name": "王俊",
     "phone": "",
     "class": "K2308",
+    "address": "",
+    "qq": "",
+    "wechat": "",
+    "email": "",
+    "date": "",
+    "message": ""
+  },
+  {
+    "id": "",
+    "status": 0,
+    "item": "新物品",
+    "name": "",
+    "phone": "",
+    "class": "",
     "address": "",
     "qq": "",
     "wechat": "",
