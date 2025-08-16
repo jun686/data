@@ -12,5 +12,19 @@
     "email": "",
     "date": "2025.8.16",
     "message": ""
+  },
+  {
+    "id": "0002",
+    "status": 0,
+    "item": "新物品",
+    "name": "",
+    "phone": "",
+    "class": "",
+    "address": "",
+    "qq": "",
+    "wechat": "",
+    "email": "",
+    "date": "",
+    "message": ""
   }
 ]
