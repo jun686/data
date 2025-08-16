@@ -1,14 +1,14 @@
 [
   {
     "id": "0001",
-    "status": 0,
+    "status": 1,
     "item": "行李箱",
     "name": "王俊",
     "phone": "",
     "class": "K2308",
     "address": "",
-    "qq": "",
-    "wechat": "",
+    "qq": "1",
+    "wechat": "1",
     "email": "",
     "date": "2025.8.16",
     "message": ""
